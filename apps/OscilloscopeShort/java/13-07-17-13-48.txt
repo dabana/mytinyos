@@ -1,0 +1,420 @@
+1499968082615: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x635 0x7b0 ]
+
+1499968082617: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x818 0x824 ]
+
+1499968082617: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7d8 0x836 ]
+
+1499968082618: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x801 0x7f6 ]
+
+1499968082618: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7ff 0x8a9 ]
+
+1499968085946: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x636 0x7aa ]
+
+1499968085955: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x7ff 0x89b ]
+
+1499968085962: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x80f 0x7f8 ]
+
+1499968085972: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x80a 0x80c ]
+
+1499968085988: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7ba 0x808 ]
+
+1499968089500: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x630 0x798 ]
+
+1499968089505: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x7e7 0x86b ]
+
+1499968089512: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x861 0x89b ]
+
+1499968089522: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x805 0x808 ]
+
+1499968089537: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7b3 0x7fa ]
+
+1499968093045: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x62c 0x792 ]
+
+1499968093055: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x7e4 0x866 ]
+
+1499968093061: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x84e 0x873 ]
+
+1499968093071: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x875 0x8e5 ]
+
+1499968093087: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x886 0x83b ]
+
+1499968096421: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x63d 0x7c1 ]
+
+1499968096430: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x822 0x826 ]
+
+1499968096438: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7ef 0x86c ]
+
+1499968096449: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x848 0x874 ]
+
+1499968096463: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x874 0x8cc ]
+
+1499968099804: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x63c 0x7bb ]
+
+1499968099811: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x826 0x82d ]
+
+1499968099815: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7e4 0x858 ]
+
+1499968099825: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x833 0x83d ]
+
+1499968099841: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x804 0x805 ]
+
+1499968103176: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x639 0x7b5 ]
+
+1499968103186: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x81e 0x830 ]
+
+1499968103192: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7e0 0x83d ]
+
+1499968103202: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x813 0x80e ]
+
+1499968103218: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7a9 0x7f5 ]
+
+1499968106724: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x61c 0x778 ]
+
+1499968106733: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x83c 0x865 ]
+
+1499968106740: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x839 0x84e ]
+
+1499968106750: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x835 0x852 ]
+
+1499968106766: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x80d 0x814 ]
+
+1499968110333: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x62e 0x79e ]
+
+1499968110339: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x7f3 0x878 ]
+
+1499968110346: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x87c 0x8e2 ]
+
+1499968110356: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x880 0x833 ]
+
+1499968110372: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7f1 0x87c ]
+
+1499968113707: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x63c 0x7ba ]
+
+1499968113717: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x81f 0x826 ]
+
+1499968113723: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7e8 0x85b ]
+
+1499968113734: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x833 0x844 ]
+
+1499968113749: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x810 0x80c ]
+
+1499968117029: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x62e 0x79b ]
+
+1499968117038: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x7f5 0x890 ]
+
+1499968117045: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7fb 0x875 ]
+
+1499968117055: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x881 0x83d ]
+
+1499968117071: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x7e9 0x871 ]
+
+1499968120635: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x639 0x7b6 ]
+
+1499968120644: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x81b 0x820 ]
+
+1499968120651: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7e8 0x85d ]
+
+1499968120662: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x837 0x852 ]
+
+1499968120678: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x835 0x854 ]
+

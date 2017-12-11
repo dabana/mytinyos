@@ -1,0 +1,3 @@
+CFLAGS+=-DCC2420_DEF_RFPOWER=1
+COMPONENT=OscilloscopeAppC
+include $(MAKERULES)

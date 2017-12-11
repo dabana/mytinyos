@@ -1,0 +1,1309 @@
+1500319575319: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x40 0x6c ]
+
+1500319575321: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0xcc 0x109 ]
+
+1500319575321: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x167 0x18e ]
+
+1500319575322: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x1cd 0x1ec ]
+
+1500319795042: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x45 0x76 ]
+
+1500319795050: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0xd3 0x11e ]
+
+1500319795059: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x176 0x1cb ]
+
+1500319795068: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x1b0 0x1bf ]
+
+1500319795083: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x1cf 0x1e8 ]
+
+1500320082875: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x49 0x7c ]
+
+1500320082884: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0xe8 0x125 ]
+
+1500320082896: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x18d 0x1a8 ]
+
+1500320082900: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x1ae 0x1cc ]
+
+1500320082916: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x1c2 0x1c6 ]
+
+1500320360032: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x4a 0x80 ]
+
+1500320360041: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0xef 0x134 ]
+
+1500320360049: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x1a6 0x1b4 ]
+
+1500320360057: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x1a9 0x1aa ]
+
+1500320360073: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x18b 0x1aa ]
+
+1500320619089: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x54 0x8a ]
+
+1500320619098: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x109 0x151 ]
+
+1500320619105: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x19e 0x19e ]
+
+1500320619115: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x18d 0x1af ]
+
+1500320619131: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x1af 0x1a6 ]
+
+1500320856211: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5b 0x9a ]
+
+1500320856219: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x125 0x165 ]
+
+1500320856226: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x1a7 0x194 ]
+
+1500320856236: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x1a8 0x196 ]
+
+1500320856253: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x1a0 0x19e ]
+
+1500321290827: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x69e 0x6a9 ]
+
+1500321290838: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x67b 0x6c2 ]
+
+1500321290843: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x670 0x6b8 ]
+
+1500321290854: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x677 0x66b ]
+
+1500321290869: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x669 0x690 ]
+
+1500321291752: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x685 0x640 ]
+
+1500321291761: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x6b9 0x66c ]
+
+1500321291768: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x692 0x63f ]
+
+1500321291778: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x6ac 0x6a6 ]
+
+1500321291794: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x69a 0x6ac ]
+
+1500321292668: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x673 0x669 ]
+
+1500321292677: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x650 0x655 ]
+
+1500321292686: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x67d 0x653 ]
+
+1500321292693: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x667 0x691 ]
+
+1500321292709: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x678 0x65b ]
+
+1500321293584: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x639 0x647 ]
+
+1500321293592: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x645 0x63b ]
+
+1500321293600: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x638 0x642 ]
+
+1500321293610: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x60a 0x603 ]
+
+1500321293625: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x64c 0x62d ]
+
+1500321294499: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x62f 0x63f ]
+
+1500321294508: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5dc 0x60e ]
+
+1500321294515: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x63b 0x61d ]
+
+1500321294525: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5d8 0x616 ]
+
+1500321294541: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x603 0x653 ]
+
+1500321295473: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x619 0x635 ]
+
+1500321295480: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x633 0x644 ]
+
+1500321295487: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x629 0x60f ]
+
+1500321295497: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5d8 0x612 ]
+
+1500321295513: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x604 0x5e1 ]
+
+1500321296444: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x60a 0x601 ]
+
+1500321296452: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x60a 0x63c ]
+
+1500321296460: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x5b6 0x5e5 ]
+
+1500321296469: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5cc 0x648 ]
+
+1500321296486: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x5b5 0x5e2 ]
+
+1500321297474: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5df 0x59b ]
+
+1500321297483: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5ad 0x5ec ]
+
+1500321297490: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x5ca 0x5c2 ]
+
+1500321297500: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5a5 0x5ec ]
+
+1500321297516: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x5c5 0x5f6 ]
+
+1500321298505: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5df 0x5d6 ]
+
+1500321298513: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5a8 0x58a ]
+
+1500321298520: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x5bc 0x5f1 ]
+
+1500321298530: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5a3 0x5bd ]
+
+1500321298546: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x573 0x5c0 ]
+
+1500321299533: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x59c 0x562 ]
+
+1500321299542: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5c0 0x58a ]
+
+1500321299550: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x588 0x575 ]
+
+1500321299559: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x5b5 0x590 ]
+
+1500321299576: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x5bd 0x5d2 ]
+
+1500321300621: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5a5 0x554 ]
+
+1500321300629: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x577 0x57a ]
+
+1500321300637: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x5bb 0x593 ]
+
+1500321300647: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x54d 0x59b ]
+
+1500321300662: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x578 0x55c ]
+
+1500321301709: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x55b 0x594 ]
+
+1500321301717: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x568 0x592 ]
+
+1500321301723: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x513 0x54e ]
+
+1500321301733: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x570 0x53c ]
+
+1500321301749: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x576 0x566 ]
+
+1500321302851: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x53b 0x51e ]
+
+1500321302860: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x500 0x4f4 ]
+
+1500321302868: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x581 0x570 ]
+
+1500321302878: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x573 0x522 ]
+
+1500321302894: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x50b 0x540 ]
+
+1500321303996: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x566 0x53a ]
+
+1500321304005: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x53d 0x56b ]
+
+1500321304012: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x56c 0x50e ]
+
+1500321304022: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x566 0x510 ]
+
+1500321304038: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x57a 0x568 ]
+
+1500321305198: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x55b 0x57a ]
+
+1500321305207: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x56f 0x514 ]
+
+1500321305215: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x584 0x512 ]
+
+1500321305225: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x57e 0x556 ]
+
+1500321305240: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x56a 0x52b ]
+
+1500321306399: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x543 0x550 ]
+
+1500321306408: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x50c 0x4fc ]
+
+1500321306415: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x534 0x597 ]
+
+1500321306425: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x567 0x53c ]
+
+1500321306441: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x52c 0x5a5 ]
+
+1500321307658: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x528 0x522 ]
+
+1500321307667: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x4cf 0x541 ]
+
+1500321307674: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x500 0x4f2 ]
+
+1500321312989: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x4dc 0x503 ]
+
+1500321312997: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x4ec 0x4d6 ]
+
+1500321313004: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4e4 0x4d9 ]
+
+1500321313015: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x4fd 0x4fb ]
+
+1500321313030: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x4f6 0x501 ]
+
+1500321314492: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x500 0x4c7 ]
+
+1500321314501: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x47a 0x4a3 ]
+
+1500321314509: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4cf 0x4d6 ]
+
+1500321314519: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x4dd 0x48d ]
+
+1500321314535: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x4be 0x4d6 ]
+
+1500321315923: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x4c6 0x476 ]
+
+1500321315932: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x4d0 0x4b3 ]
+
+1500321315939: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4b0 0x498 ]
+
+1500321315951: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x4cf 0x49e ]
+
+1500321315965: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x4d7 0x4b6 ]
+
+1500321317411: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x4b2 0x487 ]
+
+1500321317420: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x4af 0x47d ]
+
+1500321317427: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x43e 0x48d ]
+
+1500321317437: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x4c8 0x45e ]
+
+1500321317453: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x4bc 0x4b1 ]
+
+1500321318899: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x4a1 0x4a0 ]
+
+1500321318908: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x47a 0x490 ]
+
+1500321318915: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x450 0x45c ]
+
+1500321318925: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x487 0x4bf ]
+
+1500321318941: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x451 0x497 ]
+
+1500321320501: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x483 0x45a ]
+
+1500321320510: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x47f 0x481 ]
+
+1500321320517: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x463 0x478 ]
+
+1500321320527: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x487 0x464 ]
+
+1500321320542: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x48b 0x427 ]
+
+1500321322103: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x47d 0x459 ]
+
+1500321322114: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x472 0x43f ]
+
+1500321322119: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x457 0x493 ]
+
+1500321322128: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x449 0x48a ]
+
+1500321322144: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x498 0x438 ]
+
+1500321323762: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x470 0x455 ]
+
+1500321323771: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x45b 0x446 ]
+
+1500321323778: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x443 0x48a ]
+
+1500321323788: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x478 0x467 ]
+
+1500321323804: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x478 0x40b ]
+
+1500321325421: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x45c 0x401 ]
+
+1500321325433: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x459 0x44e ]
+
+1500321325437: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x411 0x3fb ]
+
+1500321325448: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x467 0x46e ]
+
+1500321325463: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x46c 0x47b ]
+
+1500321327137: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x458 0x46e ]
+
+1500321327146: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x467 0x45e ]
+
+1500321327154: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x44b 0x464 ]
+
+1500321327164: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x43f 0x468 ]
+
+1500321327179: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x465 0x470 ]
+
+1500321328911: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x446 0x455 ]
+
+1500321328921: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x447 0x462 ]
+
+1500321328928: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x452 0x465 ]
+
+1500321328941: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x3f8 0x445 ]
+
+1500321328953: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x3ca 0x3f4 ]
+
+1500321330685: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x43c 0x402 ]
+
+1500321330693: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x43e 0x40a ]
+
+1500321330701: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x444 0x3f3 ]
+
+1500321330712: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x458 0x446 ]
+
+1500321330725: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x43d 0x453 ]
+
+1500321332515: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x434 0x3fc ]
+
+1500321332524: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x445 0x427 ]
+
+1500321332531: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x442 0x3fb ]
+
+1500321332542: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x407 0x420 ]
+
+1500321332561: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x3f6 0x3f5 ]
+
+1500321334345: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x42d 0x438 ]
+
+1500321334354: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x422 0x406 ]
+
+1500321334361: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x430 0x3bb ]
+
+1500321334374: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x40f 0x42d ]
+
+1500321334397: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x400 0x3f0 ]
+
+1500321336234: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x3f5 0x3cf ]
+
+1500321336244: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x406 0x42c ]
+
+1500321336250: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x3ea 0x42c ]
+
+1500321336259: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x421 0x402 ]
+
+1500321336275: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x3fa 0x3ab ]
+

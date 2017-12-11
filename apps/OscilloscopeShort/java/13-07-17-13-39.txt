@@ -1,0 +1,175 @@
+1499967586437: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5 0x5 ]
+
+1499967586439: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5 0x4 ]
+
+1499967586443: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4 0x0 ]
+
+1499967586454: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x8 0x2 ]
+
+1499967586471: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x0 0x1 ]
+
+1499967589462: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x2 0x4 ]
+
+1499967589471: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x0 0x3 ]
+
+1499967589479: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x7 0x0 ]
+
+1499967589489: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x4 0x1 ]
+
+1499967589504: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x0 0x7 ]
+
+1499967592498: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x5 0x8 ]
+
+1499967592507: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x8 0x0 ]
+
+1499967592514: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x0 0x2 ]
+
+1499967592524: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x0 0x4 ]
+
+1499967592540: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x5 0x3 ]
+
+1499967595589: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x0 0xa ]
+
+1499967595598: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x3 0x0 ]
+
+1499967595605: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4 0x2 ]
+
+1499967595615: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x8 0x4 ]
+
+1499967595631: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x3 0x0 ]
+
+1499967598624: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x0]
+  [readings=0x6 0x9 ]
+
+1499967598636: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x1]
+  [readings=0x5 0x1 ]
+
+1499967598641: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x2]
+  [readings=0x4 0x4 ]
+
+1499967598651: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x3]
+  [readings=0x7 0x0 ]
+
+1499967598671: Message <OscilloscopeMsg> 
+  [version=0x0]
+  [interval=0x5]
+  [id=0x1]
+  [count=0x4]
+  [readings=0x0 0x0 ]
+
